@@ -64,7 +64,7 @@ _docker-compose up --build_
 
   curl -X DELETE http://localhost:8089/{id}
 
-- **Prometheus Metrics**: Metrics are available at http://localhost:8089/actuator/prometheus
+- **Prometheus Metrics**: Metrics are available at http://localhost:9090/actuator/prometheus
 
 **3. Stopping the Application**
 
